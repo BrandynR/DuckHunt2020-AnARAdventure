@@ -12,13 +12,15 @@ But most importantly, keep your eye for these features in future builds:
 - A High Score System
 - 2 Player Mode (Co-op and V.S.)
    - A future build could see the ability to play with friends as you help each other reach new high scores.
-   - Or better yet challenge someone to little friendly competition.
-- Updated Terrain and Assets/Artwork
-- More Levels
+   - Or better yet challenge someone to a little friendly competition.
+- Updated Terrain and Assets/Artwork.
+- More Levela
+   - That's a given!
 - More Game Modes (Time Attack, Target Challenge, Stay tuned to find out)
 - More Easter Eggs......have you found any yet?
+![](https://i.imgur.com/KiqwRYe.jpg)
 
-In the future I plan on implementing the Vuforia Object Scanner app (if I can get the APK working correctly), or Vuforia Area Target Creator App with a LiDAR enabled device. With this I plan on using a real world object like a rubber duck as the Image Target that sets the game to render, rather than a static image.  
+In the future I plan on implementing the Vuforia Object Scanner app (if I can get the APK working correctly), or Vuforia Area Target Creator App with a LiDAR enabled device. With this I plan on using a real world 3D object like a rubber duck as the Image Target that sets the game to render, rather than a static image.  
 
 # Original Project Guidelines
 
