@@ -1,5 +1,5 @@
 # DuckHunt 2020: An Augmented Adventure
-
+![](https://i.imgur.com/G9I23IT.jpg)
 ## DuckHunt 2020
 DuckHunt 2020 was created by Brandyn Reindel, as the final portfolio project for Holberton School's AR/VR Specialization. Built as an homage to the 1984 Nintendo classic, one of the first video games to change the perception on how players can interact with a game. DuckHunt 2020 brings the classic sounds, reminiscent aesthetics, and familiar gameplay into the 21st Century.
 
