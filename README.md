@@ -24,9 +24,9 @@ But most importantly, keep your eye for these features in future builds:
 
 - 2 Player Mode (Co-op and V.S.)
 
-- A future build could see the ability to play with friends as you help each other reach new high scores.
+   - A future build could see the ability to play with friends as you help each other reach new high scores.
 
-- Or better yet challenge someone to a little friendly competition.
+   - Or better yet challenge someone to a little friendly competition.
 
 - Updated Terrain and Assets/Artwork.
 
@@ -111,7 +111,8 @@ on a 2019 MacBook Pro.
 ## Developer
 ![](https://i.imgur.com/Unn435I.png)
 - **[Brandyn Reindel](https://www.linkedin.com/in/brandyn-reindel-372b57102/)** was the sole designer, programmer, and creative lead.
-- I’m a software engineer and game developer and this project marks the completion of my Second Year Specialization in AR/VR at Holberton School New Haven. Currently I am working on developing an augmented reality mobile app “Tetris IRL”. It’s a 3D Tetris style game that lets the user put play and interact with the game pieces in the world around them. As a software engineering I am most fluent in Unity and C#, which is a direct result of my passion for AR,VR, and video games and the technologies used to create them. Please don't hesitate to reach out!
+Who Am I?
+   - I’m a software engineer and game developer and this project marks the completion of my Second Year Specialization in AR/VR at Holberton School New Haven. Currently I am working on developing an augmented reality mobile app “Tetris IRL”. It’s a 3D Tetris style game that lets the user put play and interact with the game pieces in the world around them. As a software engineering I am most fluent in Unity and C#, which is a direct result of my passion for AR,VR, and video games and the technologies used to create them. Please don't hesitate to reach out!
 
 ## Don't Forget to Stay in Touch!
 
@@ -128,7 +129,7 @@ on a 2019 MacBook Pro.
 
 
 
-### Thanks for taking a look at DuckHunt 2020: An Augmented Adventure. Don't forget to check back for more! Here's you Hint...
+### Thanks for taking a look at DuckHunt 2020: An Augmented Adventure. And don't forget to check back for more! Here's you Hint...
 ![](https://i.imgur.com/KiqwRYe.jpg)
 
   
