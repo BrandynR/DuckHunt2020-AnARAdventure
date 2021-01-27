@@ -128,7 +128,7 @@ on a 2019 MacBook Pro.
 
 
 
-### Thanks for taking a look at DuckHunt 2020: An Augmented Adventure. Don't forget to check back for more!
+### Thanks for taking a look at DuckHunt 2020: An Augmented Adventure. Don't forget to check back for more! Here's you Hint...
 ![](https://i.imgur.com/KiqwRYe.jpg)
 
   
