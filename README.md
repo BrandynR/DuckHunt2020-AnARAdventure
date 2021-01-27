@@ -10,11 +10,11 @@ This will be an on going project to further expand the possibilities of casual f
 
 But most importantly, keep your eye for these features in future builds:
 
--2 Player Mode (Co-op and V.S.)
--Updated terrain and assets
--More Levels
--More Game Modes (Time Attack, Target Challenge, Stay tuned to find out)
--More Easter Eggs......have you found any yet?
+- 2 Player Mode (Co-op and V.S.)
+- Updated terrain and assets
+- More Levels
+- More Game Modes (Time Attack, Target Challenge, Stay tuned to find out)
+- More Easter Eggs......have you found any yet?
 
 # Original Project Guidelines
 
@@ -23,18 +23,18 @@ But most importantly, keep your eye for these features in future builds:
 Requirements for our portfolio project were fairly minimal in the sense that we able to pitch, plan, and build any AR, VR, or game related idea we could come up with. However, this portfolio project is the culmination of a 2 year software engineering program and was expected to reflect that. Therefore all projects were submitted with a written proposal and needed to be approved of beforehand.
 
 ## How to Play
- -Print the target image from the repo
- -Once the app is installed on your device, scan until you have located the printed target image. The game should appear.
-  -Click on the dog to begin Round 1.
-  -Move your phone or your body around the printed image target searching for ducks.
-  -Click the red bullseye in the bottom right corner to fire.
+- Print the target image from the repo
+- Once the app is installed on your device, scan until you have located the printed target image. The game should appear.
+- Click on the dog to begin Round 1.
+- Move your phone or your body around the printed image target searching for ducks.
+- Click the red bullseye in the bottom right corner to fire.
  
 ## Rules
--You have 3 shots to hit a duck.
--If you miss 3 times, you lose a life.
--You only have 2 lives!
--Each time you successfully hit a duck (oh you'll know!) your bullets will replenish back to 3.
--Should you lose both lives you will be given the option to restart at Round 1, or quit.
+- You have 3 shots to hit a duck.
+- If you miss 3 times, you lose a life.
+- You only have 2 lives!
+- Each time you successfully hit a duck (oh you'll know!) your bullets will replenish back to 3.
+- Should you lose both lives you will be given the option to restart at Round 1, or quit.
 
 ## Technologies
 DuckHunt 2020 was built in Unity3D 2019.4.17f1 and Visual Studio Code in conjunction with the latest Vuforia API release. All assets were free, the majority of which came directly from the Unity Asset Store.
