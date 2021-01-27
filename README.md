@@ -1,20 +1,24 @@
-# DuckHunt 2020: An Augmented Adventure
 ![](https://i.imgur.com/G9I23IT.jpg)
-## DuckHunt 2020
+# DuckHunt 2020: An Augmented Adventure
 DuckHunt 2020 was created by Brandyn Reindel, as the final portfolio project for Holberton School's AR/VR Specialization. Built as an homage to the 1984 Nintendo classic, one of the first video games to change the perception on how players can interact with a game. DuckHunt 2020 brings the classic sounds, reminiscent aesthetics, and familiar gameplay into the 21st Century.
 
-DuckHunt2020 is a full functional Augmented Reality 'Duck Hunt'-like experience. Complete with an intro menu, sound effects, visual effects, immersive augmented reality, infinite score counter, and even an easter egg hidden inside this early build.
+DuckHunt2020 is a full functional Augmented Reality 'Duck Hunt'-like experience. Complete with an intro menu, sound effects, visual effects, immersive augmented reality, infinite score counter and rounds, and even an easter egg with another game hidden inside this early build.
 
 ## Things to Come
-This will be an on going project to further expand the possibilities of casual free-play AR Games and my own technical development. I invite you to save this repo, get in touch, and follow me. 
+This will be an on going project to further expand the possibilities of casual free-play AR Games and my own technical development. I invite you to save this repo, get **[in touch](https://www.linkedin.com/in/brandyn-reindel-372b57102/)**, and **[follow me](https://twitter.com/Optimus_is_Me)**. 
 
 But most importantly, keep your eye for these features in future builds:
 
+- A High Score System
 - 2 Player Mode (Co-op and V.S.)
-- Updated terrain and assets
+   - A future build could see the ability to play with friends as you help each other reach new high scores.
+   - Or better yet challenge someone to little friendly competition.
+- Updated Terrain and Assets/Artwork
 - More Levels
 - More Game Modes (Time Attack, Target Challenge, Stay tuned to find out)
 - More Easter Eggs......have you found any yet?
+
+In the future I plan on implementing the Vuforia Object Scanner app (if I can get the APK working correctly), or Vuforia Area Target Creator App with a LiDAR enabled device. With this I plan on using a real world object like a rubber duck as the Image Target that sets the game to render, rather than a static image.  
 
 # Original Project Guidelines
 
@@ -49,6 +53,11 @@ DuckHunt 2020 was built in Unity3D 2019.4.17f1 and Visual Studio Code in conjunc
 
 Primary testing and debugging was done on a Samsung Galaxy S9+.
 
+## Don't Forget to Stay in Touch!
+- **[Twitter @Optimus_Is_Me](https://twitter.com/Optimus_is_Me)**
+- **[LinkedIn](https://www.linkedin.com/in/brandyn-reindel-372b57102/)**
+- **[Other Games I've Made](https://sharemygame.com/@BrandynR)**
+- **[Space Escape Game](https://github.com/BrandynR/Space_Escape)**
 
 
 > Written with [StackEdit](https://stackedit.io/).
